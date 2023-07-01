@@ -1,36 +1,18 @@
-# work-day-scheduler
-05 Third-Party APIs: Work Day Scheduler
+# Third-Party APIs: Work Day Scheduler
 
-## Your Task
 
-Create a simple calendar application that allows a user to save events for each hour of a typical working day (9am&ndash;5pm) by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+## Screenshot
+![Website main section](/assets/images/Workday%20Schedule%20SS.PNG)
 
-You'll need to use the [Day.js](https://day.js.org/en/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Day.js in the browser.
+## Links
 
-## User Story
+Git HUb Repository: https://github.com/kbliss86/work-day-scheduler
 
-```md
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
-```
+Published Website: https://kbliss86.github.io/work-day-scheduler/
 
-## Acceptance Criteria
+## Description
 
-```md
-GIVEN I am using a daily planner to create a schedule 
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar - DONE
-WHEN I scroll down
-THEN I am presented with timeblocks for standard business hours of 9am&ndash;5pm
-WHEN I view the timeblocks for that day
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future
-WHEN I click into a timeblock
-THEN I can enter an event
-WHEN I click the save button for that timeblock
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
-```
+This project is designed to offer a user a workday planner in order to plan out activities and tasks. This was a homework assignment for Northwest Coding Bootcamp to demonstrate my knowledge of Third Party APIs like jquery, day.js and Bootstrap.
 
-The following animation demonstrates the application functionality:
+## How to use the project
+This is a public repository so anyone is free to access and use the code by either cloning it or downloading the files, you can use the links above in this readme to access the public repo and deployed page.
